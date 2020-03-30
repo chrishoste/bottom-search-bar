@@ -10,7 +10,7 @@
 Today from [Dribbble](https://www.dribbble.com/) again. A simple UI-Element `Bottom Search Bar`called by the creator [see here](https://dribbble.com/shots/5947654-Bottom-Search-Bar/). 
 
 ## My final implementation
-
+- [Youtube](https://youtu.be/8vsopGoOOug)
 <img height="700" src="https://github.com/chrishoste/bottom-search-bar/blob/master/Capture.gif">
 
 ## Features
