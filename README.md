@@ -1,6 +1,6 @@
 # Bottom SearchBar for recent contacts
 
-> This was created during my [quarantine challenges](https://github.com/chrishoste/quarantine-challenge)
+> This was created during my [quarantine challenges](https://github.com/chrishoste/quarantine-challenge). Check out the more stuff I did during this time.
 
 ## Design
 Today from [Dribbble](https://www.dribbble.com/) again. A simple UI-Element `Bottom Search Bar`called by the creator [see here](https://dribbble.com/shots/5947654-Bottom-Search-Bar/). 
