@@ -6,8 +6,18 @@
 Today from [Dribbble](https://www.dribbble.com/) again. A simple UI-Element `Bottom Search Bar`called by the creator [see here](https://dribbble.com/shots/5947654-Bottom-Search-Bar/). 
 
 ## My final implementation
-- [Youtube](https://youtu.be/8vsopGoOOug)
-<img height="700" src="https://github.com/chrishoste/bottom-search-bar/blob/master/Capture.gif">
+### Youtube ([Link](https://youtu.be/8vsopGoOOug))
+<p align="center">
+  <a href="https://youtu.be/8vsopGoOOug">
+    <img alt="youtube_thumbnail" src="https://img.youtube.com/vi/8vsopGoOOug/0.jpg" width="300" />
+  </a>
+</p>
+
+### Screenshots/Gif's
+
+<p align="center">
+  <img height="700" src="https://github.com/chrishoste/bottom-search-bar/blob/master/Capture.gif">
+</p>
 
 ## Features
 
